@@ -22,7 +22,7 @@ Successivamente si avvia lo script in Python che estrae e processa (cleaning) i 
 
 Alla fine lo script avvia lo shutdown (impostazione di default) oppure lancia uno script per interagire con il modello appena creato (impostando la variabile SHUTDOWN del file glove_builder.sh con un valore diverso da 1).
 
-## Installazione
+## Installazione ed avvio
 
 ```
 git clone https://github.com/nick87ds/GloVe-script.git
